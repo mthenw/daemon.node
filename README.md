@@ -1,3 +1,16 @@
+# FORK
+
+This fork fixes [indexzero/daemon.node#41](https://github.com/indexzero/daemon.node/issues/41) issue.
+I published it to npm under `daemon-fix41` package because I need use it in [frontail](https://github.com/mthenw/frontail).
+
+```
+npm i daemon-fix41
+```
+
+Original README below.
+
+---
+
 # daemon
 
 [![Build Status](https://secure.travis-ci.org/indexzero/daemon.node.png)](http://travis-ci.org/indexzero/daemon.node)
